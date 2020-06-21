@@ -1,3 +1,11 @@
+# Pytorch Fourier Features
+
+A simple Pytorch port of Gaussian Fourier feature mapping.
+
+Original readme below the fold.
+
+----
+
 # Fourier Features Let Networks Learn  High Frequency Functions in Low Dimensional Domains
 ### [Project Page](https://people.eecs.berkeley.edu/~bmild/fourfeat/) | [Paper](https://arxiv.org/abs/2006.10739)
 [![Open Demo in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tancik/fourier-feature-networks/blob/master/Demo.ipynb)<br>
