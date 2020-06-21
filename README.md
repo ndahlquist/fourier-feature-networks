@@ -2,7 +2,7 @@
 
 A simple Pytorch adaptation of Gaussian Fourier feature mapping (see info on the original project below the fold).
 
-Open this demo in Google Colab: [![Open Demo in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ndahlquist/pytorch-fourier-feature-networks/blob/notebook/demo.ipynb)
+Open this demo in Google Colab: [![Open Demo in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ndahlquist/pytorch-fourier-feature-networks/blob/master/demo.ipynb)
 
 
 ----
