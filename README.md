@@ -1,8 +1,9 @@
-# Pytorch Fourier Features
+# Pytorch Fourier Feature Networks
 
-A simple Pytorch port of Gaussian Fourier feature mapping.
+A simple Pytorch adaptation of Gaussian Fourier feature mapping (see info on the original project below the fold).
 
-Original readme below the fold.
+Open this demo in Google Colab: [![Open Demo in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ndahlquist/pytorch-fourier-feature-networks/blob/notebook/demo.ipynb)
+
 
 ----
 
